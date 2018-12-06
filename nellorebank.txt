@@ -6,3 +6,7 @@ pet
 kavali
 temple
 gudi
+andhra
+kavali
+sbi
+sweetshop
